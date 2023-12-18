@@ -1,0 +1,13 @@
+C:\Users\Majo\Desktop\2023-2\AYGO\TwitterClone\tweet-service\src\main\java\edu\escuelaing\aygo\tweetservice\Application\Contracts\ITweetApplication.java
+C:\Users\Majo\Desktop\2023-2\AYGO\TwitterClone\tweet-service\src\main\java\edu\escuelaing\aygo\tweetservice\Repository\TweetRepository.java
+C:\Users\Majo\Desktop\2023-2\AYGO\TwitterClone\tweet-service\src\main\java\edu\escuelaing\aygo\tweetservice\Utils\Converter.java
+C:\Users\Majo\Desktop\2023-2\AYGO\TwitterClone\tweet-service\src\main\java\edu\escuelaing\aygo\tweetservice\Application\TweetApplication.java
+C:\Users\Majo\Desktop\2023-2\AYGO\TwitterClone\tweet-service\src\main\java\edu\escuelaing\aygo\tweetservice\DTOs\RequestCreateTweet.java
+C:\Users\Majo\Desktop\2023-2\AYGO\TwitterClone\tweet-service\src\main\java\edu\escuelaing\aygo\tweetservice\Domain\Tweet.java
+C:\Users\Majo\Desktop\2023-2\AYGO\TwitterClone\tweet-service\src\main\java\edu\escuelaing\aygo\tweetservice\Exception\ExistingTweetException.java
+C:\Users\Majo\Desktop\2023-2\AYGO\TwitterClone\tweet-service\src\main\java\edu\escuelaing\aygo\tweetservice\Exception\TweetNotFoundException.java
+C:\Users\Majo\Desktop\2023-2\AYGO\TwitterClone\tweet-service\src\main\java\edu\escuelaing\aygo\tweetservice\TweetServiceRequest.java
+C:\Users\Majo\Desktop\2023-2\AYGO\TwitterClone\tweet-service\src\main\java\edu\escuelaing\aygo\tweetservice\Utils\RouteMapping.java
+C:\Users\Majo\Desktop\2023-2\AYGO\TwitterClone\tweet-service\src\main\java\edu\escuelaing\aygo\tweetservice\Repository\Contracts\ITweetRepository.java
+C:\Users\Majo\Desktop\2023-2\AYGO\TwitterClone\tweet-service\src\main\java\edu\escuelaing\aygo\tweetservice\Utils\RequestMethod.java
+C:\Users\Majo\Desktop\2023-2\AYGO\TwitterClone\tweet-service\src\main\java\edu\escuelaing\aygo\tweetservice\DTOs\RequestUpdateTweet.java

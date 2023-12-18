@@ -1,0 +1,13 @@
+C:\Users\Majo\Desktop\2023-2\AYGO\TwitterClone\user-service\src\main\java\edu\escuelaing\aygo\userservice\DTOs\RequestUpdateUser.java
+C:\Users\Majo\Desktop\2023-2\AYGO\TwitterClone\user-service\src\main\java\edu\escuelaing\aygo\userservice\Exception\ExistingUserException.java
+C:\Users\Majo\Desktop\2023-2\AYGO\TwitterClone\user-service\src\main\java\edu\escuelaing\aygo\userservice\Domain\User.java
+C:\Users\Majo\Desktop\2023-2\AYGO\TwitterClone\user-service\src\main\java\edu\escuelaing\aygo\userservice\Application\Contracts\IUserApplication.java
+C:\Users\Majo\Desktop\2023-2\AYGO\TwitterClone\user-service\src\main\java\edu\escuelaing\aygo\userservice\Utils\RequestMethod.java
+C:\Users\Majo\Desktop\2023-2\AYGO\TwitterClone\user-service\src\main\java\edu\escuelaing\aygo\userservice\Repository\Contracts\IUserRepository.java
+C:\Users\Majo\Desktop\2023-2\AYGO\TwitterClone\user-service\src\main\java\edu\escuelaing\aygo\userservice\Utils\Converter.java
+C:\Users\Majo\Desktop\2023-2\AYGO\TwitterClone\user-service\src\main\java\edu\escuelaing\aygo\userservice\Utils\RouteMapping.java
+C:\Users\Majo\Desktop\2023-2\AYGO\TwitterClone\user-service\src\main\java\edu\escuelaing\aygo\userservice\Exception\UserNotFoundException.java
+C:\Users\Majo\Desktop\2023-2\AYGO\TwitterClone\user-service\src\main\java\edu\escuelaing\aygo\userservice\Application\UserApplication.java
+C:\Users\Majo\Desktop\2023-2\AYGO\TwitterClone\user-service\src\main\java\edu\escuelaing\aygo\userservice\UserServiceRequest.java
+C:\Users\Majo\Desktop\2023-2\AYGO\TwitterClone\user-service\src\main\java\edu\escuelaing\aygo\userservice\DTOs\RequestCreateUser.java
+C:\Users\Majo\Desktop\2023-2\AYGO\TwitterClone\user-service\src\main\java\edu\escuelaing\aygo\userservice\Repository\UserRepository.java

@@ -1,0 +1,13 @@
+edu\escuelaing\aygo\userservice\DTOs\RequestCreateUser.class
+edu\escuelaing\aygo\userservice\DTOs\RequestUpdateUser.class
+edu\escuelaing\aygo\userservice\Application\UserApplication.class
+edu\escuelaing\aygo\userservice\Utils\RequestMethod.class
+edu\escuelaing\aygo\userservice\Exception\UserNotFoundException.class
+edu\escuelaing\aygo\userservice\Exception\ExistingUserException.class
+edu\escuelaing\aygo\userservice\Utils\Converter.class
+edu\escuelaing\aygo\userservice\Domain\User.class
+edu\escuelaing\aygo\userservice\UserServiceRequest.class
+edu\escuelaing\aygo\userservice\Repository\UserRepository.class
+edu\escuelaing\aygo\userservice\Application\Contracts\IUserApplication.class
+edu\escuelaing\aygo\userservice\Repository\Contracts\IUserRepository.class
+edu\escuelaing\aygo\userservice\Utils\RouteMapping.class
